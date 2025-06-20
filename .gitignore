@@ -92,5 +92,8 @@ iOSInjectionProject/
 # macOS
 .DS_Store
 
+# Xcode user data
+Wallper.xcodeproj/project.xcworkspace/xcuserdata/
+
 # Claude Code
 .claude/
